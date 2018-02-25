@@ -3,3 +3,6 @@
 https://docs.google.com/forms/d/1xwMV2lLWfHsBsFVnfQthKQlN6xKha2wNxcFU34gVXzA/edit
 https://vk.com/doc96743218_460428113?hash=ecd788452a56dc461e&dl=3576a10d2674012b3f - кривая ссылка на таблицу, извините...
 https://docs.google.com/spreadsheets/d/1MGEcY9Hcni1oeJjZDg42tScY-zE9bmfFWbQxi4Mruew/edit#gid=1448052108&fvid=1844128833 - не уверена в этой ссылке
+https://docs.google.com/spreadsheets/d/1MGEcY9Hcni1oeJjZDg42tScY-zE9bmfFWbQxi4Mruew/edit#gid=1448052108&fvid=1844128833 -ссылка на готовую гугл таблицу моего опроса с диаграммами и проч. :)
+На основании моего опроса, я могу сделать вывод, что 34% из опрошенных предпочтут шумные застолья, а остальные 65% выбрали тихие и уютные вечера. 
+Также я выяснила, что 11 респондентов предпочитают комфортную одежду, 1 выбрал классическую одежду, 3- пижаму, 6- стильную одежду, а 2- спортивный прикид.
